@@ -1,0 +1,1 @@
+Place pre-rendered tiles here as {z}/{x}/{y}.png (only if your licence allows).
